@@ -1,6 +1,9 @@
 # BEVM-Node-Kurulumu
 BEVM Testnet Node Kurulumu
 
+Benim makinem: 2 CPU 4 RAM 40 SSD
+
+
 SİSTEMİMİZİ GÜNCELLEYELİM
 
 ```
