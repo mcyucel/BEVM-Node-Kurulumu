@@ -1,7 +1,8 @@
 # BEVM-Node-Kurulumu
 BEVM Testnet Node Kurulumu
 
-Benim makinem: 2 CPU 4 RAM 40 SSD
+Gereksinimler: Nefes alsın yeter
+Benim Cihazım: 2 CPU 4 RAM 40 GB SSD (Santiment node kurulu)
 
 
 SİSTEMİMİZİ GÜNCELLEYELİM
