@@ -2,6 +2,7 @@
 BEVM Testnet Node Kurulumu
 
 Gereksinimler: Nefes alsın yeter
+
 Benim Cihazım: 2 CPU 4 RAM 40 GB SSD (Santiment node kurulu)
 
 
